@@ -20,10 +20,7 @@
   }
  
   
-  .primer_span {
-    color: #D8ADB3;
-    font-size: 110%;
-  }
+
   
   .container {
     width: 85%;
@@ -81,8 +78,8 @@
   }
   .info h4 {
     text-align: center;
-    color: #6a6a6a;
-    font-size: 26px;
+    color: #535353;
+    font-size: 28px;
     font-family: 'Sofia Sans Extra Condensed', sans-serif;
     
   }
