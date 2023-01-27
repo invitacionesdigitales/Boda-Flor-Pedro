@@ -109,7 +109,7 @@
     font-size: 18px;
     font-weight: 1200;
     border: none;
-    color: rgb(64, 63, 63);
+    color: rgb(255, 255, 255);
     background-color: #D8ADB3;
     border-radius: 7px;
     box-shadow: 1px 1px 30px -5px rgb(228, 207, 248);
@@ -127,11 +127,7 @@
   
   @media (max-width: 730px) {
   
-  .corazon{
-    width: 5%;
-    margin-left: 48%;
-    margin-top: -18%;
-  }
+  
     
   .box__copyright {
     max-width: 1200px;
@@ -149,7 +145,35 @@
 text-decoration: none;
 color: #9c9b9b;
  }
-  
+
+   .click_2{
+      padding: 2px 10px;
+      margin-top: -20px;
+      font-size: 18px;
+      font-weight: 1200;
+      border: none;
+      color: rgb(255, 255, 255);
+      background-color: #D8ADB3;
+      border-radius: 7px;
+      box-shadow: 1px 1px 30px -5px rgb(248, 223, 240);
+      cursor: pointer;
+      margin-left: 25%;
+      text-decoration: none;
+    }
+    .click{
+      padding: 2px 10px;
+      margin-top: -20px;
+      font-size: 18px;
+      font-weight: 1200;
+      border: none;
+      color: rgb(255, 255, 255);
+      background-color: #D8ADB3;
+      border-radius: 7px;
+      box-shadow: 1px 1px 30px -5px rgb(248, 223, 240);
+      cursor: pointer;
+      margin-left: 35%;
+      text-decoration: none;
+    }
   }
   
   @media (min-width: 1024px){ 
@@ -179,7 +203,7 @@ color: #9c9b9b;
       box-shadow: 0px 3px 5px rgba(rgb(218, 208, 208), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
     }
     
-    .click2{
+    .click_2{
       padding: 2px 10px;
       margin-top: -20px;
       font-size: 18px;
